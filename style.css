@@ -12,4 +12,5 @@
 #image{
     width: 100%;
     margin-bottom: 1em;
+    position: relative;
 }
